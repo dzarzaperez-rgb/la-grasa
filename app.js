@@ -68,8 +68,8 @@ function printprodcuto(producto, index) {
             <p>${producto.name}</p>
             <p>${producto.desc}</p>
             <p>$${producto.precio}</p>
-            <button type="button" onclick="agregarAlCarrito(${index})">
-                agregar al carrito😂
+            <button class="botonCarrito" type="button" onclick="agregarAlCarrito(${index})">
+                Agregar al carrito
             </button>
         </div>`
 }
