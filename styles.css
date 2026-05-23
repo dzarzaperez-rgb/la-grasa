@@ -49,4 +49,7 @@ footer {
 footer img {
     width: 40px;
     height: 40px;
+    justify-content: center; 
+    gap: 30px; 
+    flex-wrap: wrap; 
 }
