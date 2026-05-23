@@ -40,3 +40,21 @@ margin-bottom: 20px;
     display: flex;
 }
  
+footer {
+    text-align: center; 
+    background-color: #15b376;
+    padding: 20px; 
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    justify-content: center;
+    padding: 20px;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
