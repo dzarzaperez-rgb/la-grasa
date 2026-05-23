@@ -39,4 +39,16 @@ margin-bottom: 20px;
 .products-container {
     display: flex;
 }
- 
+
+button{
+    margin-left: 25%;
+    border: none;
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid greenyellow;
+    padding: 5px;
+}
+button:hover {
+    background-color: greenyellow;
+    color: white;
+}
