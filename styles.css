@@ -51,4 +51,17 @@ margin-bottom: 20px;
 .botonCarrito:hover {
     background-color: greenyellow;
     color: white;
+ 
+footer {
+    text-align: center; 
+    background-color: #15b376;
+    padding: 20px; 
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+    justify-content: center; 
+    gap: 30px; 
+    flex-wrap: wrap; 
 }
