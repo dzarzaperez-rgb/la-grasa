@@ -39,6 +39,18 @@ margin-bottom: 20px;
 .products-container {
     display: flex;
 }
+
+.botonCarrito{
+    margin-left: 25%;
+    border: none;
+    background: transparent;
+    border-radius: 5px;
+    border: 2px solid greenyellow;
+    padding: 5px;
+}
+.botonCarrito:hover {
+    background-color: greenyellow;
+    color: white;
  
 footer {
     text-align: center; 
