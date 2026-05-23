@@ -1,0 +1,42 @@
+nav {
+        text-align: center;
+
+        
+    padding: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: sans-serif;
+}   
+
+.logo
+ {
+    width: 200px;
+}
+
+.product-card {
+    width: 250px;
+    border: 1px solid black;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+.ml30 {
+    margin-left: 20px;
+}
+
+.product-card img {
+    width: 100%;
+}
+
+main {
+margin-bottom: 20px;
+}
+
+.products-container {
+    display: flex;
+}
+ 
