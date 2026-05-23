@@ -38,6 +38,9 @@ margin-bottom: 20px;
 
 .products-container {
     display: flex;
+    justify-content: center; 
+    gap: 30px; 
+    flex-wrap: wrap; 
 }
 
 .botonCarrito{
@@ -51,7 +54,7 @@ margin-bottom: 20px;
 .botonCarrito:hover {
     background-color: greenyellow;
     color: white;
- 
+}
 footer {
     text-align: center; 
     background-color: #15b376;
